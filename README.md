@@ -3,6 +3,8 @@ ESP-IDF Blufi demo
 
 This is the demo for bluetooth config wifi connection to ap.
 
+Help urban Qiao test LED blue wifi config use new Led shell with metal paint.
+
 attentions:
     1. Please use the BLEDEMO APK
     2. As the GATTServer start a litte slowly, so Please Wait for a period, then use apk scan the apk util find a random address devices named Espressif_008
